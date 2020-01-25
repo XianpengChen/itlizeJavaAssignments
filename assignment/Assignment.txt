@@ -1,0 +1,24 @@
+1. Install required softwares for java application development
+
+2. Write a java class to print a text message in a console[ with and without eclipse ]
+
+3. write a java method to add two numbers.
+2. (Population projection) The U.S. Census Bureau projects population based on the
+following assumptions:
+¦ One birth every 7 seconds
+¦ One death every 13 seconds
+¦ One new immigrant every 45 seconds
+Write a program to display the population for each of the next five years. Assume
+the current population is 312,032,486 and one year has 365 days. Hint: In Java, if
+two integers perform division, the result is an integer. The fraction part is truncated.
+For example, 5 / 4 is 1 (not 1.25) and 10 / 4 is 2 (not 2.5).
+
+3. (Convert Celsius to Fahrenheit) Write a program that reads a Celsius degree in a
+double value from the console, then converts it to Fahrenheit and displays the
+result. The formula for the conversion is as follows:
+fahrenheit = (9 / 5) * celsius + 32
+Hint: In Java, 9 / 5 is 1, but 9.0 / 5 is 1.8.
+Here is a sample run:
+
+Enter a degree in Celsius: 43
+43 Celsius is 109.4 Fahrenheit

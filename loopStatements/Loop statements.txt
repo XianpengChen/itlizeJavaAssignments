@@ -1,0 +1,46 @@
+﻿1. Write a Java program by using three for loops to print the following pattern:
+
+1******
+
+12*****
+
+123****
+
+1234***
+
+12345**
+
+123456*
+
+1234567
+
+2.CheckOddEven (if-else): Write a program called CheckOddEven which prints "Odd Number" if the int variable “number” is odd, or “Even Number” otherwise. 
+The program shall always print “BYE!” before exiting.
+
+3.PrintNumberInWord (nested-if, switch-case): 
+Write a program called PrintNumberInWord which prints "ONE", "TWO",... , "NINE", "OTHER" if the int variable "number" is 1, 2,... , 9, or other, respectively. 
+Use (a) a "nested-if" statement; (b) a "switch-case" statement.
+
+4.Write a program called SumAndAverage to produce the sum of 1, 2, 3, ..., to 100. Also compute and display the average. The output shall look like:
+The sum is 5050
+The average is 50.5
+
+5.Modify the above program 
+a)To sum only the odd numbers from 1 to 100, and compute the average. (HINTS: n is an odd number if n % 2 is not 0.)
+b)Too sum those numbers from 1 to 100 that is divisible by 7, and compute the average.
+c)To find the "sum of the squares" of all the numbers from 1 to 100, i.e. 1*1 + 2*2 + 3*3 + ... + 100*100.
+
+6.Write a program called Product1ToN to compute the product of integers 1 to 10 (i.e., 1×2×3×...×10). 
+Try computing the product from 1 to 11, 1 to 12, 1 to 13 and 1 to 14. Write down the product obtained and explain the results.
+
+7. PrintPattern (nested-loop): Print each of the followings patterns using nested loops.
+#                    # # # # # # # #      
+# #                  # # # # # # #         
+# # #                # # # # # #              
+# # # #              # # # # #                  
+# # # # #            # # # #                      
+# # # # # #          # # #                          
+# # # # # # #        # #                              
+# # # # # # # #      #                                       
+     (a)                   (b)                                   
+     

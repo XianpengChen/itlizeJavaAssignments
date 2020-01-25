@@ -1,0 +1,36 @@
+1. Convert Rupee to USD,Pound
+2. Convert USD to Pound,Rupee
+3. Develop a mathematical Calculator
+	a. (2 Variables -- X=5,Y=7)  -->> Add, Sub, Mul, Div
+	b. (3 Variables -- X=5,Y=6,Z=7) -->> Add, Sub, Mul, Div
+4. Write a Java program to convert minutes into a number of years and days. 
+Test Data
+Input the number of minutes: 3456789
+Expected Output :
+3456789 minutes is approximately 6 years and 210 days
+
+5. Develop a Java program that reads a temperature value in Celsius degrees from the keyboard and transforms it to Fahrenheit degrees. The program must print the two values in the form: X Celsius degrees are Y Fahrenheit degrees. 
+
+6. Using only the programming techniques you learned in this lesson, write an application that calculates the squares and cubes of the numbers from 0 to 10 and prints the resulting values in table format, as shown below. 
+number square cube 
+0               0             0 
+1               1             1 
+2               4             8 
+.
+.
+.
+10            100         1000
+7. Write a Java program to takes the user for a distance (in meters) and the time taken (as three numbers: hours, minutes, seconds), and display the speed, in meters per second, kilometers per hour and miles per hour (hint: 1 mile = 1609 meters). 
+ 
+Test Data
+Input distance in meters: 2500 
+Input hour: 5 
+Input minutes: 56
+Input seconds: 23
+
+Expected Output :
+Your speed in meters/second is 0.11691531 
+Your speed in km/h is 0.42089513 
+Your speed in miles/h is 0.26158804
+
+8.Write a Java program to to find the largest of three numbers.  
